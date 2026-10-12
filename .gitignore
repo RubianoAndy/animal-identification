@@ -1,0 +1,10 @@
+# entornos y temporales
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# nunca subir credenciales
+*.key
+*.env
+secrets*/

@@ -1,0 +1,11 @@
+{
+  "id": "61e8625e-d45c-412b-acf9-82c30f96b23f",
+  "project": "292060af-4805-412b-b544-df9926ffc462",
+  "iteration": "ad454c83-4f99-4895-986e-5d00065bbb74",
+  "created": "2026-10-11T22:01:16.060Z",
+  "predictions": [
+    { "probability": 0.99907815, "tagName": "lion" },
+    { "probability": 0.00064342, "tagName": "elephant" },
+    { "probability": 0.00027846, "tagName": "giraffe" }
+  ]
+}

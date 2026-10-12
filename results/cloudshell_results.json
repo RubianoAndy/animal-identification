@@ -1,0 +1,12 @@
+{
+  "ejecutado_en": "Azure Cloud Shell (Bash), 2026-10-11 22:01 UTC",
+  "modelo": "animal-classifier (Iteration 1, id ad454c83-4f99-4895-986e-5d00065bbb74)",
+  "pruebas": [
+    {"modo": "url",   "imagen": "Lion_waiting_in_Namibia.jpg", "esperado": "lion",
+     "predicciones": {"lion": 0.99907815, "elephant": 0.00064342056, "giraffe": 0.00027846178}},
+    {"modo": "image", "imagen": "elephant.jpg (African_Bush_Elephant, 1024px)", "esperado": "elephant",
+     "predicciones": {"elephant": 0.9760474, "giraffe": 0.016577572, "lion": 0.007375058}},
+    {"modo": "image", "imagen": "giraffe.jpg (Makalali Game Reserve 1124, 1024px)", "esperado": "giraffe",
+     "predicciones": {"giraffe": 0.9841697, "elephant": 0.013678693, "lion": 0.00215156}}
+  ]
+}
