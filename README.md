@@ -121,3 +121,29 @@ animal-identification/
 ## 🔐 Seguridad
 
 Ninguna clave del recurso está en este repositorio. En las capturas 16 y 37 se cubrió la clave antes de incluirlas, y el cliente de Cloud Shell la recupera con `az cognitiveservices account keys list` a una variable de entorno que se elimina al terminar.
+
+---
+
+## 📧 Contacto
+
+**Andrés Giovanny Rubiano Muñoz** Maestría en Inteligencia Artificial · Universidad de La Salle
+[arubiano67@unisalle.edu.co](mailto:arubiano67@unisalle.edu.co)
+
+---
+
+## 📄 Derechos Reservados
+
+© 2026 Andrés Giovanny Rubiano Muñoz (Andy Rubiano). Todos los derechos reservados.
+
+Este proyecto y su contenido —investigación, código, plantillas, metodologías y documentación— son propiedad intelectual conjunta de:
+
+- **Andrés Giovanny Rubiano Muñoz** (Andy Rubiano) — Autor
+- **Universidad de La Salle** — Institución académica
+
+El uso, reproducción o distribución requiere autorización previa escrita de los titulares de derechos.
+
+---
+
+<div align="center">
+    Universidad de La Salle | Bogotá D. C., Colombia
+</div>
