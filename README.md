@@ -20,7 +20,6 @@
 | **Programa** | Maestría en Inteligencia Artificial |
 | **Universidad** | Universidad de La Salle |
 | **Entregable** | Proyecto completo: dataset, cliente de línea de comandos, resultados de la API y capturas del proceso |
-| **Informe** | [animal-identification-report](https://github.com/RubianoAndy/animal-identification-report) · informe IEEE en LaTeX |
 | **Estado del recurso** | `rg-animal-vision` se mantiene activo durante la evaluación para que el modelo publicado pueda verificarse |
 | **Año** | 2026 |
 
